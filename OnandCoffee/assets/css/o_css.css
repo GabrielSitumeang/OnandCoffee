@@ -1,0 +1,77 @@
+.baris1{
+    color: #846639;
+    font-family: 'Sriracha', cursive;
+    font-size: 17px; 
+}
+
+.baris2{
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 600;
+}
+
+/* pop up */
+.img-fluid{
+    width: 50px;
+    opacity: 0.3;
+}
+form{
+    position: center;
+}
+input:checked + .img-fluid{
+    opacity: 1;
+}
+input{
+    display: none;
+}
+
+.radio{
+    display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	break-before: always;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content{
+    background-color: #D7C9BE;
+}
+
+.modal-header .judul{
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.pengantar{
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: 0.205em;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    font-weight: 500;
+}
+
+.span{
+    float: right;
+}
+
+.input-data label{
+    color: rgb(34, 34, 34);
+}
+
+.produk_judul hr{
+    border: 2px solid rgba(73, 27, 10, 0.75);
+}
+
+.minuman, .biko{
+    font-size: 17px;
+    color: #000000;
+}
+.img_produk{
+    overflow:hidden;
+    padding:10px 3px;
+    background: yellow;
+}

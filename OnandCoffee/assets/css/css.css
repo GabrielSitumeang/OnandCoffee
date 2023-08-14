@@ -1,0 +1,66 @@
+.masukan{
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+
+}
+
+.customer{
+    font-family: 'Happy Monkey', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.045em;
+}
+
+.tombol{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+letter-spacing: 2.5px;
+}
+
+.karakter{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.subjudul-admin, thead tr th{
+    font-family: 'Happy Monkey', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.045em;
+}
+ .judul-admin{
+    font-family: 'Happy Monkey', cursive;
+    font-style: normal;
+    letter-spacing: 0.045em;
+ }
+
+.isi-konten{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+thead tr{
+    background-color:#2D2E2E;
+}
+
+.img-rate{
+    width: 50px;
+}
